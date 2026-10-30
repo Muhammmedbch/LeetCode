@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Muhammmedbch/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Muhammmedbch/LeetCode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Muhammmedbch/LeetCode/tree/master/0231-power-of-two) |
 ## Linked List
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Muhammmedbch/LeetCode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Muhammmedbch/LeetCode/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Muhammmedbch/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Muhammmedbch/LeetCode/tree/master/0242-valid-anagram) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Muhammmedbch/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
