@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Muhammmedbch/LeetCode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Muhammmedbch/LeetCode/tree/master/0050-powx-n) |
 ## Linked List
 |  |
 | ------- |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Muhammmedbch/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Muhammmedbch/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
