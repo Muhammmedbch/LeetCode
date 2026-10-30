@@ -31,8 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Muhammmedbch/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0125-valid-palindrome](https://github.com/Muhammmedbch/LeetCode/tree/master/0125-valid-palindrome) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Muhammmedbch/LeetCode/tree/master/0050-powx-n) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Muhammmedbch/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
